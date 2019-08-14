@@ -121,3 +121,8 @@ mod 'netstat',
 mod 'distelli',
   :git => 'https://github.com/puppetlabs/puppetlabs-distelli_agent.git',
   :tag => '0.1.2'
+
+#cve_demo tasks to fix some CVEs
+mod 'cve_demo',
+  :git => 'https://github.com/boltKrank/cve_demo.git',
+  :ref => 'master'
