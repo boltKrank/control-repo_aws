@@ -102,8 +102,8 @@ mod 'tse-tse_facts',
   :git => 'https://github.com/puppetlabs/tse-module-tse_facts.git'
 
 mod 'demo_cis',
-  :git => 'https://github.com/ipcrm/ipcrm-demo_cis.git',
-  :ref => '4e6b63b577b9beae5a3cea88237faf11cb5990a0'
+  :git => 'https://github.com/boltKrank/ipcrm-demo_cis.git',
+  :ref => 'master'
 
 mod 'rgbank',
   :git => 'https://github.com/ipcrm/puppetlabs-rgbank.git',
